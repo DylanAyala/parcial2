@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1561413533 source:d:\dylanayalaparcial2\parcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1561413115 d:\dylanayalaparcial2\parcial2\linkedlist.h
+
+1561417995 source:d:\dylanayalaparcial2\parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parse.h"
+	"Dominios.h"
+	"menu.h"
+	"loadText.h"
+
+1561418151 d:\dylanayalaparcial2\parcial2\parse.h
+
+1561418187 source:d:\dylanayalaparcial2\parcial2\parse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Dominios.h"
+
+1561417621 d:\dylanayalaparcial2\parcial2\dominio.h
+
+1561418122 d:\dylanayalaparcial2\parcial2\dominios.h
+
+1561418167 source:d:\dylanayalaparcial2\parcial2\dominios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parse.h"
+	"Dominios.h"
+
+1561418281 d:\dylanayalaparcial2\parcial2\menu.h
+
+1561417881 source:d:\dylanayalaparcial2\parcial2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561417923 d:\dylanayalaparcial2\parcial2\loadtext.h
+
+1561418031 source:d:\dylanayalaparcial2\parcial2\loadtext.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parse.h"
+
